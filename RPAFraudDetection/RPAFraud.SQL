@@ -55,6 +55,11 @@ AND ip_address LIKE '120.%';
 
 
 /*PREFIXES for GA zips are 300-319*/
-SELECT * 
-FROM transaction_data
-WHERE zip LIKE '30%' AND '31%';
+ALTER TABLE transaction_data
+ADD COLUMN zip_code VARCHAR;
+
+UPDATE transaction_data
+SET zip_code = zip;
+
+SELECT full_name, zip_code FROM transaction_data
+WHERE zip_code BETWEEN '300%' AND '319%' OR zip_code LIKE '398%';
