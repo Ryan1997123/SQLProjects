@@ -5,4 +5,4 @@ This dataset contains a single table, transaction_data.
 
 The schema of this table is available here.
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video..
