@@ -8,6 +8,5 @@ Use SQL queries to generate user lists for the marketing department. The users d
 
 The schema of the table is available here: 
 <br>
-<img src="SchemaForRPA.PNG" alt="Schema for RPA Table" style="width:500px;height:600px;">
+<img src="SchemaForRPA.png" alt="Database Schema for Customer Segmentation RPA" style="width:500px;height:300px;">
 
-If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
