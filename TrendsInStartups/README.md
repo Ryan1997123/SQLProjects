@@ -3,6 +3,7 @@
 <br>
 <b>This project is from Code Academy's Analyze Data with SQL Skill Path course</b>
 <br>
+<br>
 
 Howdy! It’s your first day as a TechCrunch reporter. Your first task is to write an article on the rising trends in the startup world.
 
