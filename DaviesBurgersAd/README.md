@@ -2,4 +2,4 @@ Davie's Burgers: The restaurant business has been booming and it is now looking 
 
 Help them dig into their orders table to see if there is anything interesting in there for a funny tagline!
 
-<img src="DatabaseSchemaDaviesBurgers.jpg" alt="Davies Burgers Schema Database" style="width:500px;height:600px;">
+<img src="DatabaseSchemaDaviesBurgers.JPG" alt="Davies Burgers Schema Database" style="width:600px;height:400px;">
