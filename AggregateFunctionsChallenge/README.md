@@ -13,3 +13,6 @@ The database contains 3 tables:
 <b>users</b> contains the basic account details for each user<br>
 <b>payments</b> contains payment details for a 3 month period<br>
 <b>watch history</b> contains watch events for the users<br>
+
+The database schema is as follows:<br> 
+<img src="DBSchemaCodeFlix.JPG" alt="CodeFlix Database schema" width="450" height="450">
