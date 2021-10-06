@@ -1,5 +1,5 @@
 <h1>How to Hack Hacker News.</h1><br><br>
-<img src="HackerNews.gif" alt="Hacker News" width="600" height="300">
+<img src="HackerNews.gif" alt="Hacker News" width="500" height="300">
 
 <b> This project is from Code Academy's 'Analyze Data with SQL Skill Path' Course - Section: Calculating Aggregates</b>
 
@@ -21,4 +21,6 @@ In this project, I will be working with a table named hacker_news that contains 
 <b>url</b>: the link of the story<br>
 This data was kindly made publicly available under the MIT license.
 
-
+<b> The Database Schema for the hacker_news table is as follows:</b>
+<img src="HackerNewsDB.jpg" alt="Hacker News" width="500" height="300">
+  
