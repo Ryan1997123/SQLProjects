@@ -1,4 +1,5 @@
 <h1>The Metropolitan Museum of Art of New York is one of the world’s largest and finest art museums.</h1><br><br>
+<img src="TheMET.jpg" alt="The Met Logo" width="600" height="300">
 
 <b> This project is from Code Academy's 'Analyze Data with SQL Skill Path' Course</b>
 
