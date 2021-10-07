@@ -9,4 +9,4 @@ Help them analyze their January ledger data using SQL aggregate functions! <br><
 <br>
 <h3>The Database Schema for the Transactions table: </h3><br><br>
 
-<img src="DBSchemaTransaction.JPG" alt="Database Schema for Transaction Table" style="width:500px; height:500px;">
+<img src="DBSchemaTransaction.JPG" alt="Database Schema for Transaction Table" style="width:500px; height:300px;">
