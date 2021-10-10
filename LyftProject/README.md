@@ -8,4 +8,4 @@ Suppose you are a Data Analyst at Lyft, a ride-sharing platform. For a project, 
 <b>cars</b>: autonomous cars
 
 <img src = "LyftDBSchemaOne.JPG" alt = "Lyft Database Schema Image One" width = "500" height = "500">
-<img src = "LyftDBSchemaTwo.JPG" alt = "Lyft Database Schema Image Two" width = "500" height = "400">
+<img src = "LyftDBSchemaTwo.JPG" alt = "Lyft Database Schema Image Two" width = "500" height = "200">
