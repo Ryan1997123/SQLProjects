@@ -6,3 +6,5 @@ Suppose you are a Data Analyst at Lyft, a ride-sharing platform. For a project, 
 <b>trips</b>: trips information<br>
 <b>riders</b>: user data<br>
 <b>cars</b>: autonomous cars
+
+<img src = "LyftDBSchemaOne.JPG" alt = "Lyft Database Schema Image One" width = "300" height = "500"
