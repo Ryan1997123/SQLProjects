@@ -14,4 +14,8 @@ For the task I was given three tables:
 <br>
 <b>users</b>: users data<br>
 <b>posts</b>: posts information<br>
-<b>subreddits</b>: information about subreddits<br>
+<b>subreddits</b>: information about subreddits<br><br><br>
+
+<h2> Database Schema's Used </h2>
+<img src = "RedditDbSchemaOne.JPG" alt = "Reddit Project Database Schema #1" height = "450" width = "500"> 
+<img src = "RedditDbSchemaTwo.JPG" alt = "Reddit Project Database Schema #1" height = "450" width = "500"> 
