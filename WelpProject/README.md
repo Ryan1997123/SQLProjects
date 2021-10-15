@@ -7,3 +7,7 @@ For this project, I worked with two tables:<br><br>
 
 <b>places</b><br>
 <b>reviews</b>
+<br>
+<br> 
+<b> The Database Schema for the Welp project </b><br>
+<img src = "WelpDBSchema.JPG" alt = "Welp Database Schema" width = "500" height = "500">
