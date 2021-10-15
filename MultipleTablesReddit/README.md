@@ -1,4 +1,4 @@
-<h1>Multiple Tables Reddit Lab</h1>
+<h1>Multiple Tables Reddit Project</h1>
 <br>
 <br>
 <b>This project is from Codecademy's "Analyze Data with SQL Skill Path" Course</b>
