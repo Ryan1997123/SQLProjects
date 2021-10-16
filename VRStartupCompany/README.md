@@ -9,4 +9,4 @@ Each project needs a Project Manager, Team Lead, Designer, Database Administrato
 <br>
 
 <h3>Database Schema for VR Startup Company</h3> 
-<img src = "DBSchemaVR.JPG" alt = "Database Schema VR Startup Company" width = 300, height = 500> 
+<img src = "DBSchemaVR.JPG" alt = "Database Schema VR Startup Company" width = 500, height = 500> 
