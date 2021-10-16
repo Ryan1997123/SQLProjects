@@ -7,6 +7,6 @@ As head of the Project Completion team, you have been given a list of upcoming p
 
 Each project needs a Project Manager, Team Lead, Designer, Database Administrator (DBA), and at least two Developers.
 <br>
-
-<h3>Database Schema for VR Startup Company</h3> 
+<br>
+<h4>Database Schema for VR Startup Company</h4> 
 <img src = "DBSchemaVR.JPG" alt = "Database Schema VR Startup Company" width = 500, height = 500> 
