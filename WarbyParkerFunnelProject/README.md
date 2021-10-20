@@ -1,6 +1,6 @@
 <h1>Warby Parker Funnel Project</h1><br><br>
 
-<img src = "WarbyParker.JPG" alt = "WarbyParker Logo" height = "500" width = "500"> 
+<img src = "WarbyParker.JPG" alt = "WarbyParker Logo" height = "100" width = "500"> <br><br>
 
 Warby Parker is a transformative lifestyle brand with a lofty objective: to offer designer eyewear at a revolutionary price while leading the way for socially conscious businesses.<br><br>
 Founded in 2010 and named after two characters in an early Jack Kerouac journal, Warby Parker believes in creative thinking, smart design, and doing good in the world. For every pair of eyeglasses and sunglasses sold, a pair is distributed to someone in need.
@@ -13,8 +13,11 @@ Quiz Funnel:<br>
 
 Home Try-On Funnel:
 <br>
+<br>
 <b>quiz</b><br>
 <b>home_try_on</b><br>
 <b>purchase</b><br><br>
 This project was a collaboration with Codecademy and Warby Parker’s Data Science team and uses fictional data.
 
+<h1> Warby Parker Database Schema </h1>
+<img src = "WarbyParkerDB.JPG" alt = "WarbyParker Database Schema" height = "500" width = "500"> <br><br>
