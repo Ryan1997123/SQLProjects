@@ -7,13 +7,11 @@ Founded in 2010 and named after two characters in an early Jack Kerouac journal,
 
 In this project, I analyze different Warby Parker’s marketing funnels in order to calculate conversion rates. Here are the funnels and the tables that you are given:
 
-Quiz Funnel:<br>
+Quiz Funnel:
 
 <b>survey</b><br>
 
 Home Try-On Funnel:
-<br>
-<br>
 <b>quiz</b><br>
 <b>home_try_on</b><br>
 <b>purchase</b><br><br>
