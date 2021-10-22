@@ -12,5 +12,9 @@ Typically, there will be data in a subscriptions table available in the followin
 When customers have a NULL value for their subscription_end, that’s a good thing. It means they haven’t canceled!
 <br>
 <br>
-<h3>Overall result for this example and Database Schema </h3><br>
+<h3>How to calculate Churn Rates</h3>
+<img src="churncancel.png" alt="How to calculate churn rates picture" height="200" width="300">
+
+
+<h3>Overall result for this example and Database Schema </h3>
 <img src="QueryResultsAndDB.JPG" alt="Query Results with Database Schema" height="500" width="600">
