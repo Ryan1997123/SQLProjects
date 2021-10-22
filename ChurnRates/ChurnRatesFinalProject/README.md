@@ -1,4 +1,4 @@
-<h1>Calculating Churn Rates</h1><br>
+<h1>Calculating Churn Rates Project</h1><br>
 Four months into launching Codeflix, management asks you to look into subscription churn rates. It’s early on in the business and people are excited to know how the company is doing.
 <br>
 <br>
@@ -14,3 +14,6 @@ The dataset provided to you contains one SQL table, subscriptions. Within the ta
 <strong>subscription_end</strong>- the end date of the subscription<br>
 <strong>segment</strong> - this identifies which segment the subscription owner belongs to
 Codeflix requires a minimum subscription length of 31 days, so a user can never start and end their subscription in the same month.<br>
+<br>
+<h3>Database Schema and Query Results for the project</h3>
+<img src="QueryResultsAndDB.JPG" alt = "Query Results and Schema for project" height="500" width="500">
