@@ -17,4 +17,4 @@ When customers have a NULL value for their subscription_end, that’s a good thi
 
 
 <h3>Overall result for this example and Database Schema </h3>
-<img src="QueryResultsAndDB.JPG" alt="Query Results with Database Schema" height="500" width="600">
+<img src="QueryResultsAndDB.JPG" alt="Query Results with Database Schema" height="300" width="500">
