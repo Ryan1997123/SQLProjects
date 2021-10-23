@@ -16,5 +16,5 @@
 <br>
 <br>
 <h4>Overall Results from my queries</h4>
-<img src="results1.JPG" alt="Overall Query Results Image One for CoolTShirts Page Visits" height="400" width="640">
-<img src="results2.JPG" alt="Overall Query Results Image One for CoolTShirts Page Visits" height="400" width="640">
+<img src="results1.JPG" alt="Overall Query Results Image One for CoolTShirts Page Visits" height="400" width="800">
+<img src="results2.JPG" alt="Overall Query Results Image One for CoolTShirts Page Visits" height="400" width="800">
