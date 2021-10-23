@@ -8,6 +8,8 @@
   They can use that information to optimize their marketing campaigns.
 
 </p>
+<br>
+<br>
 
 <h4>Database Schema</h4>
-<img src="page_visits_schema.JPG" alt="Database Schema for CoolTShirts Page Visits" height="500" width="500">
+<img src="page_visits_schema.JPG" alt="Database Schema for CoolTShirts Page Visits" height="400" width="640">
