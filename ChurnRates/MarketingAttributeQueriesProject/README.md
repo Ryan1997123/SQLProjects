@@ -1,10 +1,10 @@
 <h1>CoolTShirts Marketing Attribution Queries Project</h1>
 
 <p>
-  CoolTShirts sells shirts of all kinds, as long as they are T-shaped and cool. 
+  CoolTShirts sells shirts of all kinds, as long as they are T-shaped and cool. <br>
   Recently, CTS started a few marketing campaigns to increase website visits and purchases.<br>
   
-  Using touch attribution, they’d like to map their customers’ journey: from initial visit to purchase.
+  Using touch attribution, they’d like to map their customers’ journey: from initial visit to purchase.<br>
   They can use that information to optimize their marketing campaigns.
 
 </p>
