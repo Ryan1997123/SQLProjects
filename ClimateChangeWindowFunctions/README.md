@@ -6,7 +6,7 @@ To practice what you’ve learned about window functions, you are going to use c
 <br>
 This data will show the average annual temperature for each state – this is the average temperature of every day in all parts of the state for that year.
 <br>
-
-For this project, you will be working with one table:
+<br>
+For this project, I will be working with one table:
 
 <strong>state_climate</strong>
