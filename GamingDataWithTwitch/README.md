@@ -2,7 +2,7 @@
 <br>
 <br>
 
-<h1>Final project for CodeCademy's Analyst Data with SQL Skill Path</h1>
+<h2>Final project for CodeCademy's Analyst Data with SQL Skill Path</h2>
 <br>
 <p>
   <a href="https://www.twitch.tv/">Twitch</a> is the world’s leading live streaming platform for gamers, with 15 million daily active users. Using data to understand its users and products is one of the main responsibilities of the <a href="https://science.twitch.tv/"> Twitch Science Team</a>.
@@ -15,3 +15,9 @@ Stream viewing data:<br>
   Chat usage data:<br>
   <em><strong>chat</strong></em> table
 </p>
+
+<br>
+<br>
+<h2>Twitch Gaming Database Schema</h2>
+
+<img src="TwitchDB.JPG" alt="" height="400" width="500">
